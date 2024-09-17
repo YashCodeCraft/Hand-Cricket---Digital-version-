@@ -20,8 +20,8 @@ A simple Hand Cricket game implemented in Python. Play against the computer in t
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/hand-cricket-game.git
-   cd hand-cricket-game
+   git clone https://github.com/YashCodeCraft/Hand-Cricket---Digital-version-.git
+   cd Hand-Cricket---Digital-version-
 
 2. Run the game:
 
